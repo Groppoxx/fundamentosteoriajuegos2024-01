@@ -21,4 +21,6 @@
 
 <p>Puedes contactarme en <a href="mailto:alvarez.orellana.iam@gmail.com">alvarez.orellana.iam@gmail.com</a> por si te surge alguna consulta.</p>
 
+![kiwi-catscafe](https://github.com/Groppoxx/fundamentosteoriajuegos2024-01/assets/82839813/76cafb0b-d583-4955-bb2f-cdf5c4a67b14)
+
 <p>¡Gracias por visitar mi repositorio! Espero que encuentres útiles mis apuntes y disfrutes aprendiendo sobre teoría de juegos.</p>
