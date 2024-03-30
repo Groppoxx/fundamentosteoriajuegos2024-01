@@ -21,6 +21,4 @@
 
 <p>Puedes contactarme en <a href="mailto:alvarez.orellana.iam@gmail.com">alvarez.orellana.iam@gmail.com</a> por si te surge alguna consulta.</p>
 
-<div class="tenor-gif-embed" data-postid="15488238" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/kiwi-catscafe-gaming-video-games-button-smash-gif-15488238">Kiwi Catscafe Sticker</a>from <a href="https://tenor.com/search/kiwi-stickers">Kiwi Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
 <p>¡Gracias por visitar mi repositorio! Espero que encuentres útiles mis apuntes y disfrutes aprendiendo sobre teoría de juegos.</p>
