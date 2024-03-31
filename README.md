@@ -25,5 +25,5 @@
 
 <p align="center">¡Gracias por visitar mi repositorio! Espero que encuentres útiles mis apuntes y disfrutes aprendiendo sobre teoría de juegos.</p>
 
-<a href="https://ibb.co/f9q158G"><img align="center" src="https://i.ibb.co/DYzVyGg/b7aff1a6-6d04-4614-82b8-b6bd5122a636.jpg" style="width: 100%; height: auto;"></a>
+<a href="https://ibb.co/f9q158G"><img align="center" src="https://i.ibb.co/DYzVyGg/b7aff1a6-6d04-4614-82b8-b6bd5122a636.jpg" alt="MoonScar" style="width: 100%; height: auto;"></a>
 
