@@ -25,5 +25,5 @@
 
 <p align="center">¡Gracias por visitar mi repositorio! Espero que encuentres útiles mis apuntes y disfrutes aprendiendo sobre teoría de juegos.</p>
 
-<a href="https://ibb.co/f9q158G"><img align="center" src="https://i.ibb.co/DYzVyGg/b7aff1a6-6d04-4614-82b8-b6bd5122a636.jpg" alt="MoonScar" style="width: 100%; height: auto;"></a>
+![b7aff1a6-6d04-4614-82b8-b6bd5122a636](https://github.com/Groppoxx/fundamentosteoriajuegos2024-01/assets/82839813/678aac9d-321e-412e-9d1a-e0bb9e39d0d5)
 
